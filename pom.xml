@@ -16,10 +16,6 @@
 
     <repositories>
         <repository>
-            <id>MapR</id>
-            <url>https://repository.mapr.com/maven</url>
-        </repository>
-        <repository>
             <id>jitpack</id>
             <url>https://jitpack.io</url>
         </repository>
