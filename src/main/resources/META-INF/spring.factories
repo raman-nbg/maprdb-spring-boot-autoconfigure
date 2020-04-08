@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.mapr.springframework.boot.autoconfigure.maprdb.MapRDBAutoConfiguration
